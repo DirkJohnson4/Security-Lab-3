@@ -11,6 +11,4 @@ Welcome to the official GitHub repository for Snake Game, a fast-paced and addic
 
 [![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/DirkJohnson4/Security-Lab-3/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/DirkJohnson4/Security-Lab-3)
 
-curl -X 'GET' \
-  'https://api.securityscorecards.dev/projects/github.com/DirkJohnson4/Security-Lab-3/badge?style=flat' \
-  -H 'accept: image/svg+xml'
+https://api.securityscorecards.dev/projects/github.com/DirkJohnson4/Security-Lab-3/badge?style=flat

@@ -7,6 +7,6 @@ Welcome to the official GitHub repository for Snake Game, a fast-paced and addic
 - **Sleek Graphics**: Enjoy stunning graphics and animations that immerse you in the Snake Blitz experience.
 - **Intuitive Controls**: Navigate your snake with ease using simple and responsive controls designed for both beginners and experienced players.
   
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8514/badge)](https://www.bestpractices.dev/projects/8514)
+
 
 [![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{DirkJohnson4}/{Security-Lab-3}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{DirkJohnson4}/{Security-Lab-3})

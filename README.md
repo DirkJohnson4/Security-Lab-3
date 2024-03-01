@@ -9,5 +9,5 @@ Welcome to the official GitHub repository for Snake Game, a fast-paced and addic
   
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8514/badge)](https://www.bestpractices.dev/projects/8514)
 
-[![OpenSSF Scorecard]([htt‌ps://api.securityscorecards.dev/projects/github.com/DirkJohnson4/Security-Lab-3/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/DirkJohnson4/Security-Lab-3]
+[![OpenSSF Scorecard]([htt‌ps://api.securityscorecards.dev/projects/github.com/DirkJohnson4/Security-Lab-3/badge)(htt‌ps://securityscorecards.dev/viewer/?uri=github.com/DirkJohnson4/Security-Lab-3]
 
